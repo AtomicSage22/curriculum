@@ -11,7 +11,7 @@ By the end of this lesson, you should be able to do the following:
 
 ### Emmet
 
-Emmet is a really useful tool for anyone that works a lot with HTML and CSS. Luckily, Emmet does not have that big of a learning curve, and if you already know how to write HTML and CSS you'll have no trouble picking up Emmet abbreviations.
+Emmet is a really useful tool for anyone who works a lot with HTML and CSS. Luckily, Emmet does not have that big of a learning curve, and if you already know how to write HTML and CSS you'll have no trouble picking up Emmet abbreviations.
 
 Let's start off by generating an HTML boilerplate with Emmet. Opening up an empty html file in VS Code and entering `!` should trigger Emmet suggestions like so:
 
@@ -21,7 +21,7 @@ Pressing enter should generate the following text:
 
 ![Generating boilerplate HTML](https://cdn.statically.io/gh/TheOdinProject/curriculum/1953c1f219a8b321e7ecef9ebcb92834f50ffb9f/html_css/intermediate_html/emmet/imgs/01.png)
 
-We have just used one of many Emmet abbreviations. There are lots of useful Emmet abbreviations that you should check out, like [Wrap with Abbreviation](https://docs.emmet.io/actions/wrap-with-abbreviation/) and [Remove Tag](https://docs.emmet.io/actions/remove-tag/). Definitely go through those before moving forward.
+We have just used one of many Emmet abbreviations. There are lots of useful Emmet abbreviations that you should check out, like [Wrap with Abbreviation](https://docs.emmet.io/actions/wrap-with-abbreviation/) and [Remove Tag](https://docs.emmet.io/actions/remove-tag/). Definitely go through those, before moving forward.
 
 Considering how useful these two are, we will be setting up VS Code shortcuts for them.
 Start off by opening the keyboard shortcuts window. You can do so by clicking the cog icon on the bottom left and selecting keyboard shortcuts, or by pressing `Cmd + K` followed by `Cmd + S`.
